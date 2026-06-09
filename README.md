@@ -45,3 +45,23 @@ Atualmente, estou evoluindo na automação de testes por meio do desenvolvimento
 ### 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielychernandez)
 [![Contato](https://img.shields.io/badge/Contato-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:daniely.ch@hotmail.com)
+
+---
+### 🚀 Projetos em Destaque
+
+[![saucedemo-tests](https://github-readme-stats.vercel.app/api/pin/?username=danielyhernandez&repo=saucedemo-tests&hide_border=true)](https://github.com/danielyhernandez/saucedemo-tests)
+
+> Automação E2E | Java + Selenium + JUnit 5 + GitHub Actions CI/CD
+---
+### 📊 Minhas Estatísticas
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielyhernandez&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&locale=pt-br)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielyhernandez&layout=donut&theme=dark&hide_border=true&langs_count=6)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=danielyhernandez&hide_border=true&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
+
+</div>
+</div>
